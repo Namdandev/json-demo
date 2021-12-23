@@ -1,19 +1,5 @@
 
-{
-  "data" : {
-    "status" : "accepted",
-    "id" : "0946a1e2-f380-4a23-82c0-1b8e18de6582",
-    "provider" : "FACETEC",
-    "matching" : {
-      "success" : "true",
-      "error" : "false",
-      "matchLevel" : "5"
-    },
-    "user" : {
 
-    }
-  }
-}
 {
   "success" : true,
   "message" : "string",
